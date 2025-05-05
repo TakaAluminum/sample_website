@@ -4,3 +4,6 @@
   .nav-spacing {
     margin: 0 0 0 5px; text-decoration: none; color: blue; 
   }
+  .image-link {
+    text-decoration: none;
+  }
